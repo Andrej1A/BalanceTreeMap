@@ -2,7 +2,7 @@
 
 You can find a full description how to balance a treemap and of this source code on the blog post: http://www.andrej-albrecht.com/de/articles/TreeMap-ausbalancieren
 
-![alt tag](https://raw.githubusercontent.com/Andrej1A/BalancedTreeMap/master/doc/Balancing-TreeMap.png)
+![alt tag](https://github.com/Andrej1A/BalanceTreeMap/raw/master/doc/Balancing-TreeMap.png)
 
 ## Installation
 Clone or download the project and import it to Eclipse.
