@@ -3,9 +3,11 @@
 You can find a full description how to balance a treemap and of this source code on the blog post: http://www.andrej-albrecht.com/de/articles/TreeMap-ausbalancieren
 
 ## Installation
-1. Clone or download the project and import it to Eclipse.
+Clone or download the project and import it to Eclipse.
 
 ## Usage
+
+```java
 MyTreeMap unbalancedTreeMap = new MyTreeMap();
 unbalancedTreeMap.put(new String("A"), "A");
 unbalancedTreeMap.put(new String("B"), "B");
@@ -24,7 +26,7 @@ unbalancedTreeMap.print(); // print
 	
 MyTreeMap balancedTreeMap = unbalancedTreeMap.getPerfectlyBalancedCopy();
 balancedTreeMap.print(); // print
-
+```
 
 ## Contributing
 1. Fork it!
